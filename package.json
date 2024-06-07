@@ -1,13 +1,13 @@
 {
-  "name": "tokens-sync-test",
-  "version": "1.0.0",
-  "description": "",
+  "name": "exampletokensync",
+  "version": "0",
+  "description": "An example of how to consume design tokens from a distributed package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npx co build"
   },
-  "author": "",
+  "author": "Dakota Sexton",
   "license": "ISC",
   "devDependencies": {
     "@cobalt-ui/cli": "^1.11.2",
